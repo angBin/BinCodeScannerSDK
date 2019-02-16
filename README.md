@@ -31,6 +31,6 @@ BinCodeScannerSDK.a 仅支持64位的真机和模拟器，如果你需要支持3
 
 Release-iphoneos.a 和 Debug-iphonesimulator.a 两个文件在 BinCodeScannerExample/BinCodeScannerSDK 目录下。
 
-另：虽然库文件很大，但是对 .ipa 文件的体积基本没有增加。
+另：虽然库文件很大，但是对 .ipa 文件的体积影响不大。
 
 
